@@ -4,10 +4,10 @@
 - **Company Name:** Auto & mobilier
 - **Directory:** auto_mobilier
 - **Address/Contact:** 
-  - Abidjan, C�te d'Ivoire
+  - Abidjan, Céte d'Ivoire
   - 
-  - Adjam�, C�te d'Ivoire
-  - Coordonn�es
+  - Adjamé, Céte d'Ivoire
+  - Coordonnées
   - 
   - +225 0759173828
   - 
